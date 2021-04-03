@@ -1,0 +1,4 @@
+#This is a tool for plotting the heat distribution in an aparment
+## You need to have mpi4py installed to run this
+### It is possible to run it on multiple cores (wow)
+To see how the code executes with parallel execution run the command: mpiexec -n 3 python room_example.py in the project directory.
